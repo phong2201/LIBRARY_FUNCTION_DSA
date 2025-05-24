@@ -1,13 +1,3 @@
-/*
- * Assignment 1 - Developing List Data Structures and Artificial Neural Networks
- * file : main.hpp
- * Data Structures and Algorithms
- * Author: Võ Tiến
- * Link FB : https://www.facebook.com/Shiba.Vo.Tien
- * Link Group : https://www.facebook.com/groups/khmt.ktmt.cse.bku
- * Date: 10.9.2024
- */
-
 #ifndef MAIN_HPP
 #define MAIN_HPP
 
