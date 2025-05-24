@@ -1,11 +1,6 @@
 /*
  * Assignment 3 - Developing List Data Structures and Artificial Neural Networks
- * file : main.cpp
- * Data Structures and Algorithms
- * Author: Võ Tiến
- * Link FB : https://www.facebook.com/Shiba.Vo.Tien
- * Link Group : https://www.facebook.com/groups/khmt.ktmt.cse.bku
- * Date: 05.12.2024
+
 
  g++ -std=c++17 -o main -Iinclude -Itest main.cpp test/unit_test/sort_topo/unit_test.cpp test/unit_test/sort_topo/test/*.cpp  -DTEST_SORT_TOPO
 
